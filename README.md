@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve 👋
 
-![diceroll123's github stats](https://github-readme-stats.vercel.app/api?username=diceroll123&theme=dracula&count_private=true)
+![diceroll123's github stats](https://github-readme-stats.vercel.app/api?username=diceroll123&theme=dracula&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diceroll123&layout=compact&theme=dracula)
 
