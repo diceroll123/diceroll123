@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diceroll123&layout=compact&theme=dracula&exclude_repo=facebook-chat-api,Meta-Tile-Widget&hide=Coffeescript,HTML,JavaScript,CSS,Dockerfile,Shell)
 
-<a href='https://ko-fi.com/dice' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P56FLNB)
